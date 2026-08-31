@@ -1,0 +1,6 @@
+---
+# dsh bundle patch — 声明引入的 peer 注入（设置命名空间服务）
+inject:
+  - name: settings
+    require: "@deepseek-ai/dsh-settings"
+:apply-order: [settings]
