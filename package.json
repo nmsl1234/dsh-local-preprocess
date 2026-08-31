@@ -1,7 +1,7 @@
 {
   "name": "dsh-local-preprocess",
   "version": "0.1.0",
-  "description": "活在版硬三些：在用户定无话话识的诇尔渐失效在话话匆缀大里在版硬渐失无里渐失掉数应无送有在话话！…\n",
+  "description": "本地预处理插件：用用户自定义提示词驱动本地模型，改写/脱敏后再传给云端主模型。",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
